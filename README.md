@@ -15,3 +15,5 @@ Introduktion till JS: https://www.codecademy.com/learn/introduction-to-javascrip
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/Ek2K-xXhjb1Dn2nQqhMkifwBiHA123qSpZglQ66L9OvfRg?e=adwqxg
